@@ -1,0 +1,7 @@
+首先请更新mysql数据库
+注意在config.py中修改UNDERSTAND_ROOT 和 UNDERSTAND_PYTHON_API_ROOT
+可在GITHUB_API_ACCESS_TOKENS处添加多个access token
+注意创建文件夹repos用于保存下载的项目
+创建文件夹report保存项目漏洞测试报告
+创建文件夹ubd_files保存项目生成的udb文件
+最后使用python3运行按序即可
